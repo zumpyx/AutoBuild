@@ -88,6 +88,7 @@ jobs:
 
             $name    = $tool.name
             $repoUrl = $tool.repository
+            $branch  = if ($tool.branch) { $tool.branch } else { $null }
             $now     = (Get-Date -AsUTC -Format 'yyyy-MM-ddTHH:mm:ssZ')
 
             # Carry forward last known success
@@ -96,6 +97,7 @@ jobs:
             $result = [ordered]@{
               name        = $name
               repoUrl     = $repoUrl
+              branch      = $branch
               buildStatus = 'failed'
               lastUpdated = $now
               lastSuccess = $prevSuccess
@@ -105,12 +107,17 @@ jobs:
             Write-Host "════════════════════════════════════════"
             Write-Host "  Building: $name"
             Write-Host "  Repo:     $repoUrl"
+            if ($branch) { Write-Host "  Branch:   $branch" }
             Write-Host "════════════════════════════════════════"
 
             try {
               # Clone
               $srcDir = "src/$name"
-              git clone --depth 1 $repoUrl $srcDir 2>&1 | Write-Host
+              if ($branch) {
+                git clone --depth 1 --branch $branch $repoUrl $srcDir 2>&1 | Write-Host
+              } else {
+                git clone --depth 1 $repoUrl $srcDir 2>&1 | Write-Host
+              }
               if ($LASTEXITCODE -ne 0) { throw "git clone failed (exit $LASTEXITCODE)" }
 
               # Locate project / solution

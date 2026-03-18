@@ -41,9 +41,12 @@ Builds run automatically:
 {
     "name": "MyTool",
     "repository": "https://github.com/author/MyTool.git",
+    "branch": null,
     "enabled": true
 }
 ```
+
+Set `"branch"` to a branch name (e.g. `"dev"`) to clone a specific branch instead of the repository's default branch. Use `null` to always clone the default branch.
 
 2. Push to `main` — the workflow will pick it up automatically.
 
