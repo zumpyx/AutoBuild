@@ -2,29 +2,33 @@
   {
     "name": "Rubeus",
     "repoUrl": "https://github.com/GhostPack/Rubeus.git",
+    "branch": null,
     "buildStatus": "success",
-    "lastUpdated": "2026-03-18T08:33:26Z",
-    "lastSuccess": "2026-03-18T08:33:26Z"
+    "lastUpdated": "2026-03-18T08:39:12Z",
+    "lastSuccess": "2026-03-18T08:39:12Z"
   },
   {
     "name": "Seatbelt",
     "repoUrl": "https://github.com/GhostPack/Seatbelt.git",
+    "branch": null,
     "buildStatus": "success",
-    "lastUpdated": "2026-03-18T08:34:19Z",
-    "lastSuccess": "2026-03-18T08:34:19Z"
+    "lastUpdated": "2026-03-18T08:39:29Z",
+    "lastSuccess": "2026-03-18T08:39:29Z"
   },
   {
     "name": "SharpUp",
     "repoUrl": "https://github.com/GhostPack/SharpUp.git",
+    "branch": null,
     "buildStatus": "success",
-    "lastUpdated": "2026-03-18T08:34:24Z",
-    "lastSuccess": "2026-03-18T08:34:24Z"
+    "lastUpdated": "2026-03-18T08:39:33Z",
+    "lastSuccess": "2026-03-18T08:39:33Z"
   },
   {
     "name": "SharpHound",
     "repoUrl": "https://github.com/BloodHoundAD/SharpHound.git",
+    "branch": null,
     "buildStatus": "success",
-    "lastUpdated": "2026-03-18T08:34:26Z",
-    "lastSuccess": "2026-03-18T08:34:26Z"
+    "lastUpdated": "2026-03-18T08:39:36Z",
+    "lastSuccess": "2026-03-18T08:39:36Z"
   }
 ]
