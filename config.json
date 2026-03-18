@@ -5,11 +5,6 @@
     "enabled": true
   },
   {
-    "name": "RunasCs",
-    "repository": "https://github.com/antonioCoco/RunasCs.git",
-    "enabled": true
-  },
-  {
     "name": "Seatbelt",
     "repository": "https://github.com/GhostPack/Seatbelt.git",
     "enabled": true
