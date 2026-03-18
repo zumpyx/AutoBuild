@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "name": "Rubeus",
+    "repoUrl": "https://github.com/GhostPack/Rubeus.git",
+    "buildStatus": "success",
+    "lastUpdated": "2026-03-18T07:56:45Z",
+    "lastSuccess": "2026-03-18T07:56:45Z"
+  },
+  {
+    "name": "RunasCs",
+    "repoUrl": "https://github.com/antonioCoco/RunasCs.git",
+    "buildStatus": "failed",
+    "lastUpdated": "2026-03-18T07:57:17Z",
+    "lastSuccess": null
+  },
+  {
+    "name": "Seatbelt",
+    "repoUrl": "https://github.com/GhostPack/Seatbelt.git",
+    "buildStatus": "success",
+    "lastUpdated": "2026-03-18T07:57:17Z",
+    "lastSuccess": "2026-03-18T07:57:17Z"
+  },
+  {
+    "name": "SharpUp",
+    "repoUrl": "https://github.com/GhostPack/SharpUp.git",
+    "buildStatus": "success",
+    "lastUpdated": "2026-03-18T07:57:22Z",
+    "lastSuccess": "2026-03-18T07:57:22Z"
+  },
+  {
+    "name": "SharpHound",
+    "repoUrl": "https://github.com/BloodHoundAD/SharpHound.git",
+    "buildStatus": "success",
+    "lastUpdated": "2026-03-18T07:57:25Z",
+    "lastSuccess": "2026-03-18T07:57:25Z"
+  }
+]
