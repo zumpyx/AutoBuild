@@ -2,21 +2,25 @@
   {
     "name": "Rubeus",
     "repository": "https://github.com/GhostPack/Rubeus.git",
+    "branch": null,
     "enabled": true
   },
   {
     "name": "Seatbelt",
     "repository": "https://github.com/GhostPack/Seatbelt.git",
+    "branch": null,
     "enabled": true
   },
   {
     "name": "SharpUp",
     "repository": "https://github.com/GhostPack/SharpUp.git",
+    "branch": null,
     "enabled": true
   },
   {
     "name": "SharpHound",
     "repository": "https://github.com/BloodHoundAD/SharpHound.git",
+    "branch": null,
     "enabled": true
   }
 ]
