@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Rubeus",
+    "repository": "https://github.com/GhostPack/Rubeus.git",
+    "enabled": true
+  },
+  {
+    "name": "RunasCs",
+    "repository": "https://github.com/antonioCoco/RunasCs.git",
+    "enabled": true
+  },
+  {
+    "name": "Seatbelt",
+    "repository": "https://github.com/GhostPack/Seatbelt.git",
+    "enabled": true
+  },
+  {
+    "name": "SharpUp",
+    "repository": "https://github.com/GhostPack/SharpUp.git",
+    "enabled": true
+  },
+  {
+    "name": "SharpHound",
+    "repository": "https://github.com/BloodHoundAD/SharpHound.git",
+    "enabled": true
+  }
+]
