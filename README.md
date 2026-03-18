@@ -13,10 +13,9 @@ Each tool ships in three flavours:
 
 | Tool | Repository | Status | Last Successful Build |
 |------|-----------|--------|----------------------|
-| Rubeus | [Rubeus](https://github.com/GhostPack/Rubeus.git) | ✅ Success | 03/18/2026 07:56:45 |
-| RunasCs | [RunasCs](https://github.com/antonioCoco/RunasCs.git) | ❌ Failed | Never |
-| Seatbelt | [Seatbelt](https://github.com/GhostPack/Seatbelt.git) | ✅ Success | 03/18/2026 07:57:17 |
-| SharpUp | [SharpUp](https://github.com/GhostPack/SharpUp.git) | ✅ Success | 03/18/2026 07:57:22 |
-| SharpHound | [SharpHound](https://github.com/BloodHoundAD/SharpHound.git) | ✅ Success | 03/18/2026 07:57:25 |
+| Rubeus | [Rubeus](https://github.com/GhostPack/Rubeus.git) | ✅ Success | 03/18/2026 08:33:26 |
+| Seatbelt | [Seatbelt](https://github.com/GhostPack/Seatbelt.git) | ✅ Success | 03/18/2026 08:34:19 |
+| SharpUp | [SharpUp](https://github.com/GhostPack/SharpUp.git) | ✅ Success | 03/18/2026 08:34:24 |
+| SharpHound | [SharpHound](https://github.com/BloodHoundAD/SharpHound.git) | ✅ Success | 03/18/2026 08:34:26 |
 
-_Last updated: 2026-03-18 07:58 UTC_
+_Last updated: 2026-03-18 08:35 UTC_
