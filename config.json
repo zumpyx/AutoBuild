@@ -34,5 +34,17 @@
     "repository": "https://github.com/tomcarver16/ADSearch.git",
     "branch": null,
     "enabled": true
+  }，
+  {
+    "name": "Runascs",
+    "repository": "https://github.com/antonioCoco/RunasCs.git",
+    "branch": null,
+    "enabled": true
+  },
+    {
+    "name": "SweetPotato",
+    "repository": "https://github.com/Tycx2ry/SweetPotato_CS.git",
+    "branch": null,
+    "enabled": true
   }
 ]
