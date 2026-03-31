@@ -4,47 +4,63 @@
     "repoUrl": "https://github.com/GhostPack/Rubeus.git",
     "branch": null,
     "buildStatus": "success",
-    "lastUpdated": "2026-03-31T07:10:01Z",
-    "lastSuccess": "2026-03-31T07:10:01Z"
+    "lastUpdated": "2026-03-31T07:49:49Z",
+    "lastSuccess": "2026-03-31T07:49:49Z"
   },
   {
     "name": "Seatbelt",
     "repoUrl": "https://github.com/GhostPack/Seatbelt.git",
     "branch": null,
     "buildStatus": "success",
-    "lastUpdated": "2026-03-31T07:10:22Z",
-    "lastSuccess": "2026-03-31T07:10:22Z"
+    "lastUpdated": "2026-03-31T07:50:07Z",
+    "lastSuccess": "2026-03-31T07:50:07Z"
   },
   {
     "name": "SharpUp",
     "repoUrl": "https://github.com/GhostPack/SharpUp.git",
     "branch": null,
     "buildStatus": "success",
-    "lastUpdated": "2026-03-31T07:10:27Z",
-    "lastSuccess": "2026-03-31T07:10:27Z"
+    "lastUpdated": "2026-03-31T07:50:12Z",
+    "lastSuccess": "2026-03-31T07:50:12Z"
   },
   {
     "name": "SharpHound",
     "repoUrl": "https://github.com/BloodHoundAD/SharpHound.git",
     "branch": null,
     "buildStatus": "success",
-    "lastUpdated": "2026-03-31T07:10:29Z",
-    "lastSuccess": "2026-03-31T07:10:29Z"
+    "lastUpdated": "2026-03-31T07:50:14Z",
+    "lastSuccess": "2026-03-31T07:50:14Z"
   },
   {
     "name": "Certify",
     "repoUrl": "https://github.com/GhostPack/Certify.git",
     "branch": null,
     "buildStatus": "success",
-    "lastUpdated": "2026-03-31T07:11:19Z",
-    "lastSuccess": "2026-03-31T07:11:19Z"
+    "lastUpdated": "2026-03-31T07:51:12Z",
+    "lastSuccess": "2026-03-31T07:51:12Z"
   },
   {
     "name": "ADSearch",
     "repoUrl": "https://github.com/tomcarver16/ADSearch.git",
     "branch": null,
     "buildStatus": "success",
-    "lastUpdated": "2026-03-31T07:11:34Z",
-    "lastSuccess": "2026-03-31T07:11:34Z"
+    "lastUpdated": "2026-03-31T07:51:32Z",
+    "lastSuccess": "2026-03-31T07:51:32Z"
+  },
+  {
+    "name": "Runascs",
+    "repoUrl": "https://github.com/antonioCoco/RunasCs.git",
+    "branch": null,
+    "buildStatus": "failed",
+    "lastUpdated": "2026-03-31T07:51:39Z",
+    "lastSuccess": null
+  },
+  {
+    "name": "SweetPotato",
+    "repoUrl": "https://github.com/CCob/SweetPotato.git",
+    "branch": null,
+    "buildStatus": "success",
+    "lastUpdated": "2026-03-31T07:51:39Z",
+    "lastSuccess": "2026-03-31T07:51:39Z"
   }
 ]
