@@ -4,31 +4,47 @@
     "repoUrl": "https://github.com/GhostPack/Rubeus.git",
     "branch": null,
     "buildStatus": "success",
-    "lastUpdated": "2026-03-30T03:05:03Z",
-    "lastSuccess": "2026-03-30T03:05:03Z"
+    "lastUpdated": "2026-03-31T07:10:01Z",
+    "lastSuccess": "2026-03-31T07:10:01Z"
   },
   {
     "name": "Seatbelt",
     "repoUrl": "https://github.com/GhostPack/Seatbelt.git",
     "branch": null,
     "buildStatus": "success",
-    "lastUpdated": "2026-03-30T03:05:20Z",
-    "lastSuccess": "2026-03-30T03:05:20Z"
+    "lastUpdated": "2026-03-31T07:10:22Z",
+    "lastSuccess": "2026-03-31T07:10:22Z"
   },
   {
     "name": "SharpUp",
     "repoUrl": "https://github.com/GhostPack/SharpUp.git",
     "branch": null,
     "buildStatus": "success",
-    "lastUpdated": "2026-03-30T03:05:25Z",
-    "lastSuccess": "2026-03-30T03:05:25Z"
+    "lastUpdated": "2026-03-31T07:10:27Z",
+    "lastSuccess": "2026-03-31T07:10:27Z"
   },
   {
     "name": "SharpHound",
     "repoUrl": "https://github.com/BloodHoundAD/SharpHound.git",
     "branch": null,
     "buildStatus": "success",
-    "lastUpdated": "2026-03-30T03:05:27Z",
-    "lastSuccess": "2026-03-30T03:05:27Z"
+    "lastUpdated": "2026-03-31T07:10:29Z",
+    "lastSuccess": "2026-03-31T07:10:29Z"
+  },
+  {
+    "name": "Certify",
+    "repoUrl": "https://github.com/GhostPack/Certify.git",
+    "branch": null,
+    "buildStatus": "success",
+    "lastUpdated": "2026-03-31T07:11:19Z",
+    "lastSuccess": "2026-03-31T07:11:19Z"
+  },
+  {
+    "name": "ADSearch",
+    "repoUrl": "https://github.com/tomcarver16/ADSearch.git",
+    "branch": null,
+    "buildStatus": "success",
+    "lastUpdated": "2026-03-31T07:11:34Z",
+    "lastSuccess": "2026-03-31T07:11:34Z"
   }
 ]
