@@ -22,5 +22,11 @@
     "repository": "https://github.com/BloodHoundAD/SharpHound.git",
     "branch": null,
     "enabled": true
+  },
+  {
+    "name": "Certify",
+    "repository": "https://github.com/GhostPack/Certify.git",
+    "branch": null.
+    "enabled": true
   }
 ]
