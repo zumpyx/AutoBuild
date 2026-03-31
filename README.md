@@ -18,4 +18,4 @@ Each tool ships in three flavours:
 | SharpUp | [SharpUp](https://github.com/GhostPack/SharpUp.git) | ✅ Success | 03/30/2026 03:05:25 |
 | SharpHound | [SharpHound](https://github.com/BloodHoundAD/SharpHound.git) | ✅ Success | 03/30/2026 03:05:27 |
 
-_Last updated: 2026-03-30 03:06 UTC_
+_Last updated: 2026-03-31 07:06 UTC_
